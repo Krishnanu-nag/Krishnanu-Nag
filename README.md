@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hi, I'm Krishnanu Nag, an enthusiastic software developer with a passion for building impactful projects. I specialize in full-stack development, with experience in technologies such as React, Node.js, Express, MongoDB, HTML, and CSS.<br><br>🌐 I enjoy creating dynamic and responsive web applications. A few of my notable projects include:<br><br>
-- [**Portfolio Website**](https://krishnanu-nag.github.io/Portfolio_final/index.html): My personal portfolio showcasing my projects, skills, and experience.
-- [**Hostel Management System**](https://hostel-management-krishnanu-nag.netlify.app/): A Full Stack MERN project which serves a comprehensive solution for managing student hostel allocations, ensuring efficient room booking and management.
-- [**Smart Keep**](https://smart-keep-krishnanu-nag.netlify.app/): A collaborative task management web application built with the MERN stack, featuring real-time team collaboration, task tracking, and user authentication using JWT and WebSockets.
-- [**Wedding e-Invite Website**](https://krishnanu-nag.github.io/wedding-ecard-invitation/): A user-friendly single-page website with integrated deep links for seamless navigation and one-click cab bookings.
-
-
+- [**Portfolio Website**](https://krishnanu-nag.github.io/Portfolio_final/index.html): My personal portfolio showcasing my projects, skills, and experience.  
+- [**Hostel Management System**](https://hostel-management-krishnanu-nag.netlify.app/): A Full Stack MERN project which serves a comprehensive solution for managing student hostel allocations, ensuring efficient room booking and management.  
+- [**Smart Keep**](https://smart-keep-krishnanu-nag.netlify.app/): A collaborative task management web application built with the MERN stack, featuring real-time team collaboration, task tracking, and user authentication using JWT and WebSockets.  
+- [**AI Code Editor**](https://ai-code-editor-krishnanu-nag.netlify.app/): A smart code editor with AI-assisted autocompletion, error detection, and real-time suggestions, supporting multiple programming languages for faster and efficient coding.  
+- [**gMentor**](https://gmentor-krishnanu-nag.netlify.app/): An AI-powered mentorship platform enabling students to connect with experienced mentors for guidance, career advice, and skill development through real-time chat and structured sessions.  
+- [**Wedding e-Invite Website**](https://krishnanu-nag.github.io/wedding-ecard-invitation/): A user-friendly single-page website with integrated deep links for seamless navigation and one-click cab bookings.  
 
 
 💡 Currently, I'm working on building a website for a startup focused on providing mentorship. Stay tuned—it's going live soon!
